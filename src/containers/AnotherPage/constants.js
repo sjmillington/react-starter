@@ -1,0 +1,1 @@
+export const INCREMENT_TIMER = 'AnotherPage/INCREMENT_TIMER';

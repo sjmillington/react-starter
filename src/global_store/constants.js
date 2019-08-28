@@ -1,0 +1,1 @@
+export const CHANGE_USERNAME = 'global/CHANGE_USERNAME';
